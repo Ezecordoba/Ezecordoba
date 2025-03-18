@@ -10,4 +10,4 @@
 - Sistema de recomendación para una plataforma de streaming: Desarrollé una API con FastAPI y un sistema de recomendaciones de películas, utilizando procesamiento de lenguaje natural y algoritmos de machine learning.
 - Proyecto Consultora Pro Data: Desarrollé pipelines de datos, realicé Exploratory Data Analysis (EDA) y construí un sistema de recomendación para nuevos emprendedores en el rubro de los restaurantes utilizando datos de Google Maps y Yelp.
 
-💻 Disfruto trabajar con tecnologías como Python, SQL, Power Bi y Docker, pero siempre estoy emocionado de explorar nuevas herramientas. Mi objetivo es seguir creciendo en el campo de la ciencia de datos y en el ámbito profesional, contribuyendo a proyectos significativos que tengan un impacto real. 🌱
+💻 Disfruto trabajar con tecnologías como Python, SQL y Power Bi, pero siempre estoy emocionado de explorar nuevas herramientas. Mi objetivo es seguir creciendo en el campo de la ciencia de datos y en el ámbito profesional, contribuyendo a proyectos significativos que tengan un impacto real. 🌱
