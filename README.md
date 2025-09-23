@@ -1,6 +1,6 @@
 ## EzequielLizio
 
-👋 ¡Hola! Soy Ezequiel Lizio, un apasionado Data Scientist y estudiante avanzado de Física en la Universidad Nacional de Rosario (UNR). Tengo una sólida formación en Python, con más de 4 años de experiencia en la computación científica y uno en el análisis de datos y machine learning. Veo los obstáculos laborales, estudiantiles y emocionales como desafíos que superar, siempre tratando de mejorar como persona y profesional. 🚀
+👋 ¡Hola! Soy Ezequiel Lizio, un apasionado Data Scientist y graduado de la Licenciatura en Física en la Universidad Nacional de Rosario (UNR). Tengo una sólida formación en Python, con más de 4 años de experiencia en la computación científica y uno en el análisis de datos y machine learning. Veo los obstáculos laborales, estudiantiles y emocionales como desafíos que superar, siempre tratando de mejorar como persona y profesional. 🚀
 
 🔍 Me especializo en gestión de datos, procesamiento y optimización, trabajando con herramientas como Pandas, SQL y Power BI. Trabajo mucho con Modelos de Machine Learning de clasificación, recomendación y preditivos. Me encanta resolver problemas complejos diseñando pipelines ETL eficientes y generando insights valiosos a partir de datos sin procesar.
 
